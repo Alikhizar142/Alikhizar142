@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://media.tenor.com/CzdMW7wnLn8AAAAC/coding.gif"/>
+ <img width="900" height="300" src="https://media.tenor.com/CzdMW7wnLn8AAAAC/coding.gif"/>
 </h1>
 <h1 align="center">Hi 👋, I'm Khizar Ali Student of Artificial Intelligence at NUCES</h1>
 <h2 align="center">A passionate Programmer  from Pakistan</h2>

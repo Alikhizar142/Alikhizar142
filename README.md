@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khizar Ali</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h2 align="center">A passionate Programmer  from Pakistan</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alikhizar142&label=Profile%20views&color=0e75b6&style=flat" alt="alikhizar142" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/638428/screenshots/3641004/media/9756e05977e724a3ac0bf104d486d06d.gif">
